@@ -1,0 +1,22 @@
+-three necesary icons 
+19*19 icon.png
+128*128 icon_128.png
+150*150 logon.png
+
+-every chrome extension needs to have manifest.json
+
+-add some html ,css and js and its done
+
+-after development is done please check once in browser if it works fine
+
+-now upload that dir where extension exits to 'chrome://extensions/'
+
+-check the developer option and upload extension dir
+(DONE)
+
+-now to publish the app select all the content in extension dir create a zip file
+
+-the go to 'https://developer.chrome.com/webstore/publish' and follow the instructions the process will demand some images to be uploaded so you would have to have some screenshots and now the extension will be published after a review.
+
+-once published
+now you can delete the developer extension and add your extension from chrome store
